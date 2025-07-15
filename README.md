@@ -12,8 +12,6 @@ Se il campo data viene lasciato vuoto, viene utilizzata la data odierna a mezzan
 
 In caso di errore di inserimento, è possibile riprovare fino a 3 volte oppure uscire digitando `exit` (non sensibile a maiuscole/minuscole).
 
-## Utilizzo
-
 
 ## Utilizzo
 1. Esegui il programma:
